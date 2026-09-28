@@ -1,0 +1,6 @@
+{
+  "name": "City Institute of Health Sciences",
+  "description": "Official website for City Institute of Health Sciences (CIHS) Karachi - College of Nursing, empowering the next generation of healthcare professionals with BS Nursing, Post RN BSN and Diploma programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
